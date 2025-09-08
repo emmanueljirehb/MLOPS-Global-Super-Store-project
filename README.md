@@ -9,7 +9,8 @@
 
 ## 🚀 Executive Summary
 
-Built an end-to-end sales forecasting system for a global retail store to improve forecast accuracy, automate ML tracking, and enable reproducible model deployments. The project supports data-driven business decisions for inventory and demand planning.
+- Built an end-to-end sales forecasting system for a global retail store to improve forecast accuracy, automate ML tracking, and enable reproducible model deployments. 
+- The project supports data-driven business decisions for inventory and demand planning.
 
 ---
 
